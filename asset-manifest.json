@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//keith-liew.github.io/meme-generator/static/css/main.563f9491.css",
+    "main.js": "//keith-liew.github.io/meme-generator/static/js/main.5fdda4b2.js",
+    "index.html": "//keith-liew.github.io/meme-generator/index.html",
+    "main.563f9491.css.map": "//keith-liew.github.io/meme-generator/static/css/main.563f9491.css.map",
+    "main.5fdda4b2.js.map": "//keith-liew.github.io/meme-generator/static/js/main.5fdda4b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.563f9491.css",
+    "static/js/main.5fdda4b2.js"
+  ]
+}
