@@ -1,6 +1,6 @@
 # react-keeper-app
 > A simple online secret whisper website implemented certain authentication method. 
-> Live demo [_here_](https://keith-liew.github.io/react-keeper-app/). 
+> Live demo [_here_](https://keith-liew.github.io/meme-generator/). 
 
 
 ## Table of Contents
