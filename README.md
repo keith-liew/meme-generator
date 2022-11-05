@@ -1,3 +1,81 @@
+# react-keeper-app
+> A simple online secret whisper website implemented certain authentication method. 
+> Live demo [_here_](https://keith-liew.github.io/react-keeper-app/). 
+
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Lesson Learned](#lesson-learned)
+* [Acknowledgements](#acknowledgements)
+
+
+## General Information
+- A simple react meme generator app
+- User are able to create a meme
+- The purpose of this project is to learn how to develop react web app in functional componenet
+- The topic of react components, modules, props, useState hooks are learned and implemented
+
+
+## Technologies Used
+- @testing-library/jest-dom: ^5.16.5,
+- @testing-library/react: ^13.4.0,
+- @testing-library/user-event: ^13.5.0,
+- react: ^18.2.0,
+- react-dom: ^18.2.0,
+- react-scripts: 5.0.1,
+- web-vitals: ^2.1.4
+
+
+## Features
+- Get a random meme picture
+- Add narrative at top and bottom
+
+
+## Screenshots
+- Homepage
+
+![Homepage](/public/images/homepage.PNG)
+
+- Create Meme
+
+![createMeme](/public/images/createMeme.PNG)
+
+
+
+## Setup
+- Project environment:
+    -npm installed
+    -node.js installed
+
+
+## Usage
+- On project terminal
+    - install dependencies `npm install`
+    - start the app `npm start`
+
+
+## Project Status
+Project is: _complete_
+
+
+## Lesson Learned
+- Create a simple react app
+- Create react app with reuseable module
+- Use react hooks(useEffect) to avoid memory leaking issue
+
+
+## Acknowledgements
+- This project was inspired by Bob Ziroll.
+- This project was based on [this course](https://scrimba.com/learn/learnreact) on Scrimba and also available on [Youtube](https://www.youtube.com/watch?v=bMknfKXIFA8).
+
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
