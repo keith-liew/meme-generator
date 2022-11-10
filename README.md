@@ -1,5 +1,5 @@
 # meme-generator
-> A simple online secret whisper website implemented certain authentication method. 
+> A simple online meme-generator that grab a random picture and allow the user to put narration on it. 
 > Live demo [_here_](https://keith-liew.github.io/meme-generator/). 
 
 
